@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active description="Have you seen me?" gfx="CleverDisguise.png" maxcharges="6" name="Clever Disguise" />
+</items>
